@@ -28,6 +28,8 @@ public class CollectionEx {
         System.debug('ls contains ? one : ' + ls.contains('one'));
         System.debug('ls contains ? One : ' + ls.contains('One'));
         System.debug('ls equals lsCopy ? : ' + ls.equals(lsCopy));
+
+        System.debug('New Debug statement added');
     }
     public void setExample(){
         
